@@ -1,0 +1,31 @@
+=== Summary ===
+//Reclaim your stairs with the correct tool.//\\
+This is  simple plugin, it makes it so that when you break stairs with the correct tool they drop stairs instead of solid blocks. Cobblestone stairs still have to be broken with a pickaxe to get any drop, wooden stairs can be broken with anything, but only drop stairs if you use an axe.
+\\\\
+=== Features ===
+* Allow you to use your stairs again after breaking them
+* Determines drop based on tool
+* No configuration
+\\\\
+=== Changelog ===
+* Version 1.2
+** Changed name to StairDropper from BetterStairs
+** Minor code cleanup
+* Version 1.1
+** Updated to support new types of stairs introduced in 1.8
+* Version 1.0b
+** Added JavaDocs
+** Updated plugin.yml with valid description
+* Version 1.0
+** Initial release
+\\\\
+=== Future Plans ===
+* Add support for stone slabs and pressure plates so that they recover with the correct tool.
+* I would like to reduce the break time for cobble stairs to something more reasonable, unfortunately the overhead required for that right now just wouldn't be worth it. Maybe with future versions of bukkit I will revisit it.
+\\\\
+=== Installation / Upgrade ===
+# Download the latest jar file
+# Reload your server
+\\\\
+=== Source ===
+[[https://github.com/Fritzed/StairDropper]]

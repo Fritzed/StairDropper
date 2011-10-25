@@ -1,0 +1,5 @@
+name: StairDropper
+main: me.fritz.stairdropper.StairDropper
+version: 1.2
+author: Fritz
+description: Causes Stairs to drop properly if the right tool is used.
